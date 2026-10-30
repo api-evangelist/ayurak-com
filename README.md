@@ -72,21 +72,118 @@ Ayurak AI delivers enterprise AI solutions that integrate advanced security, hea
 
 Everything profiled for ayurak-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ayurak-com/](https://apis.io/providers/ayurak-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (2)
+
+- [AriBot API](https://apis.io/apis/ayurak-com/aribot-api/) — AriBot API provides threat modeling, compliance automation, and AI security analysis endpoints.
+- [ayurak-com API](https://apis.io/apis/ayurak-com/ayurak-com-api/) — ayurak-com API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [PostAribotApiV2ThreatModelingAnalyzeRequest](https://apis.io/schemas/ayurak-com/ayurak-com-post-aribot-api-v2-threat-modeling-analyze-request/)
+- [PostAribotApiV2ThreatModelingAnalyzeResponse](https://apis.io/schemas/ayurak-com/ayurak-com-post-aribot-api-v2-threat-modeling-analyze-response/)
+- [PostV2ThreatModelingAnalyzeRequest](https://apis.io/schemas/ayurak-com/ayurak-com-post-v2-threat-modeling-analyze-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Ayurak Com Context](https://apis.io/jsonld/ayurak-com/ayurak-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ayurak-com API Rules](https://apis.io/rules/ayurak-com/ayurak-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ayurak Com Authentication](https://apis.io/security/ayurak-com/ayurak-com-authentication/)
+- [Ayurak Com Domain Security](https://apis.io/security/ayurak-com/ayurak-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Ayurak Com Scopes](https://apis.io/scopes/ayurak-com/ayurak-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Ayurak Com Plans Pricing](https://apis.io/plans/ayurak-com/ayurak-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Ayurak Com Rate Limits](https://apis.io/rate-limits/ayurak-com/ayurak-com-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://ayurak.com/)
 - [Documentation](https://developer.ayurak.com/)
+- [Getting started](https://developer.ayurak.com/getting-started)
 - [API reference](https://developer.ayurak.com/)
 - [Pricing](https://ayurak.com/pricing)
+- [Support](https://developer.ayurak.com/support)
 - [Blog](https://ayurak.com/blog)
+- [Security](https://ayurak.com/solutions/security)
 - [Terms of service](https://ayurak.com/legal/terms)
 - [Privacy policy](https://ayurak.com/legal/privacy)
+- [GitHub](https://github.com/ayurak)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/ayurak-com/](https://apis.io/providers/ayurak-com/).
+**Kin Score 51.0** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 46.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 64.3 |
+| Access clarity | 31.6 |
+
+**Agent readiness 47.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 30.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ayurak-com/](https://apis.io/providers/ayurak-com/).
 
 ## How this profile is made
 
